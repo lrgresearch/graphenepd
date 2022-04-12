@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## graphenePD - Investigation of the effects of transition metal palladium on electronical, structural and optical properties of graphene nanoribbons
+### Project Information
+* Date: Jan 2012 - Dec 2012
+* Funded by: Project Supported by Higher Education Institution (Gazi Univ)
+* Number: 05/2012-14
+* Budget: 14 955 Turkish liras
 
-You can use the [editor on GitHub](https://github.com/lrgresearch/graphenepd/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### Project Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img align="left" src="graphenepd-proje.png">
 
-### Markdown
+**Abstract**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this study,  the effects of Pd-terminations and Pd-dopings on electronic, structural and optical properties of (5,5), (7,7), (9,9) and (11,11) type armchair graphene nanoribbons will be investigated using ab-initio approach.
 
-```markdown
-Syntax highlighted code block
+### Objectives
 
-# Header 1
-## Header 2
-### Header 3
+Experimental growth of graphene started with the simple removal method (in small pieces) proposed by Novoselov et al., then the device fabrication was one step closer with successful (on a whole substrate but thick) graphene growth by sublimating Si from the SiC surface. In recent days, it has been observed that both large and thin graphene layers can be grown in magnifications on transition metals such as Nickel (Ni), Copper (Cu) and Ruthenium (Ru), contrary to these two methods. Of these, Ru has been an interesting success and attention has turned to other similar transition metals. Palladium (Pd), on the other hand, draws attention to its possible interaction with graphene because it is relatively easy to obtain, high purity and similar physical properties compared to Ru.
 
-- Bulleted
-- List
+In this study, we intend to examine how the Pd element affects the electronic and optical properties of graphene by using ab-initio computational methods for edge saturation and doping in graphene nanostrip structures.
 
-1. Numbered
-2. List
+### Project Consortium
 
-**Bold** and _Italic_ and `Code` text
+#### Project Team
+* Assoc. Prof. Dr. Sefer Bora Lisesivdin (PI) (Gazi Univ.)
+* Dr. Beyza Lisesivdin (Gazi Univ.)
+* Abdullah Fatih Kuloglu
+* Cem Gunes
 
-[Link](url) and ![Image](src)
-```
+#### Other Colleagues, Students and Collaborations
+* Prof. Dr. Ekmel OZBAY (Bilkent Univ.)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Project Structure
+n/a
 
-### Jekyll Themes
+### Project News*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrgresearch/graphenepd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### February 2016
+* New book chapter from our project:	S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay “Chapter 18: The effects of Doping and Termination with transition metals on electronic properties of Graphene Nanosheets and Nanoribbons” Graphene Science Handbook: Electrical and Optical Properties Vol. 3 (2014).
 
-### Support or Contact
+#### February 2013
+* New article from our project:	F. Kuloglu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay "First-principles calculations of Pd-terminated symmetrical armchair graphene nanoribbons" Comp. Mater. Sci.68, 18 (2013).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### December 2012
+* Project is finished
+* New thesis from our project: Abdullah Fatih Kuloğlu “Kenarları Paladyum İle Sonlandırılmış Grafen Nanoşeritlerin Elektronik Özelliklerinin İncelenmesi” MSc Thesis, Institute of Science, Gazi University, 2012.
+
+#### April 2012
+* New proceeding from our project: A. F. Kuloglu, B. Alsancak, C. Gunes, S. B. Lisesivdin, E. Ozbay “Kenarlari Paladyum Atomlari ile Sonlandirilmis Farkli Genisliklerdeki Armchair Grafen Nanoseritlerin Elektronik Ozelliklerinin Yogunluk Fonksiyonu Teorisi Kullanilarak Incelenmesi” I. Solid State Matter Physics İzmir Meeting, p01 (2012).
+
+#### January 2012
+* Project is started.
+
+*: Project site is prepared after project was finished.
